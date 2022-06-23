@@ -1,7 +1,7 @@
 {
-  "homepage": "https://pratick28.github.io/reechiee-portfolio.github.io",
   "name": "reechiee",
   "version": "0.1.0",
+  "homepage": "https://pratick28.github.io/reechiee-portfolio",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
@@ -27,7 +27,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "react-app",
+      "react-app", 
       "react-app/jest"
     ]
   },
